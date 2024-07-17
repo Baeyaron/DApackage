@@ -1,0 +1,24 @@
+Package: ANOVA
+Title: ANOVA by DataAnalyst
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "firstname",
+           family = "lastname",
+           role = c("aut", "cre"),
+           email = "your@email.com")
+Description: ANOVA by DataAnalyst
+License: What license is it under?
+Imports: 
+    agricolae,
+    car,
+    config (>= 0.3.2),
+    datasets,
+    DT,
+    golem (>= 0.4.1),
+    gplots,
+    shiny (>= 1.8.1.1),
+    shinydashboard,
+    shinyjs
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
